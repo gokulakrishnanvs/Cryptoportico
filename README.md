@@ -125,5 +125,33 @@ and find the data flow in the code which I used to code the program around ( the
 
 ---
 
+The development is done and the program is working as intended.
+the code is committed to the branch.
+
+Here are the steps to run the program ( only for windows users )
+
+1. Clone the repository
+2. open powershell ,go to directory and run `npm install` to fetch the required package
+3. open a new powershell window, go the directory where the code is cloned, and run `node main.js`
+
+( make sure you have your CSV file in the same folder as the code .Sample of CSV is present in the repository)
+
+Voila! you now have access to Cryptoportico , your portfolio manager. 
+
+Screen shots:
+
+![image](https://user-images.githubusercontent.com/131561034/233812237-145b4c9f-7c00-49e6-8987-7b27e7fc635f.png)
+
+![image](https://user-images.githubusercontent.com/131561034/233812246-27cfa2e1-6894-462a-8ea6-7d31c9f7fb65.png)
+
+![image](https://user-images.githubusercontent.com/131561034/233812262-1a32d415-e65b-42d4-8548-7e0475d8ee6f.png)
+
+---
+
+## Thank you note:
+
+I thank you for providing me this opportunity, it has been a very good learning experience when i solved this problem.
+
+Happy Coding!
 
 
