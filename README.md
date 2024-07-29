@@ -148,10 +148,4 @@ Screen shots:
 
 ---
 
-## Thank you note:
-
-I thank you for providing me this opportunity, it has been a very good learning experience when i solved this problem.
-
-Happy Coding!
-
 
